@@ -3,3 +3,4 @@ A powerful, fully automated Product Listing (PL) and Product Detail Page (PDP) s
 
 Tech Stack : 
 Python, requests for undetectable HTTP requests, MongoDB for data storage, JSON Parsing for PDP API responses, Export into .csv
+**Domain** : https://www.sunglasshut.com/ca-en
